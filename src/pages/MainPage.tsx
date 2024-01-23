@@ -1,7 +1,7 @@
+import Main from "@/modules/Main";
+
 const MainPage = () => {
-    return (
-        <div>123</div>
-    );
-}
- 
+  return <Main />;
+};
+
 export default MainPage;

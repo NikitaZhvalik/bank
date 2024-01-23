@@ -1,3 +1,4 @@
+import "./assets/styles/reset.css";
 import AppRoutes from "./routes/AppRoutes";
 
 function App() {
