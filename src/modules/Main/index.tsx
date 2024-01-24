@@ -1,7 +1,1 @@
-const Main = () => {
-    return (
-        <div>12345</div>
-    );
-}
- 
-export default Main;
+export { Main } from "./components/Main/Main";

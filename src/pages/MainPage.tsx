@@ -1,4 +1,4 @@
-import Main from "@/modules/Main";
+import { Main } from "@/modules/Main";
 
 const MainPage = () => {
   return <Main />;
