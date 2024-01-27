@@ -1,0 +1,40 @@
+// Colors
+$c-light: #fff;
+$c-dark: #343c6a;
+$c-blue-primary: #446ff0;
+$c-gray-primary: #16dbcc;
+$c-pink-primary: #ff82ac;
+$c-orange-primary: #ffbb38;
+$c-grey-primary: #b1b1b1;
+// Colors
+
+// Light colors
+$lc-grey-primary: #f5f7fa;
+$lc-blue-primary: #E7EDFF;
+$lc-gray-primary: #dcfaf8;
+$lc-pink-primary: #ffe0eb;
+$lc-orange-primary: #FFF5D9;
+// Light colors
+
+// Status colors
+$sc-action: #164ced;
+$sc-critical: #fe5c73;
+$sc-successes: #10bb62;
+// Status colors
+
+// Sizing
+$s-h1: 28px;
+$s-h2: 22px;
+$s-h3: 20px;
+$s-h4: 18px;
+$s-body-medium: 16px;
+$s-body-small: 13px;
+$s-btn-medium: 18px;
+$s-btn-small: 15px;
+// Sizing
+
+/* Values */
+$v-border-primary: 1px solid $c-blue-primary;
+$v-border-controls: 1px solid $sc-action;
+$v-drop-shadow-primary: 1px 1px 8px $c-grey-primary;
+$v-default-transition: all 0.3s ease-out;
